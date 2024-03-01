@@ -8,7 +8,7 @@
 - Back: Java and Node.js
 - Database: MySQL
 
-👨‍💻 I'm doing my bit at SDG Group as a developer. We work in agile, applying good practices and as it is an international project I have the opportunity to improve my English, in addition to the technical part.
+👨‍💻I'm trying to do my best at SDG Group as a developer. We work in agile, applying good practices and as it is an international project I have the opportunity to improve my English, in addition to the technical part.
 
 📧 Shall we talk?  feel free to reach out to me at juanjopalma03@gmail.com
 
