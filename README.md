@@ -1,5 +1,3 @@
-![FullStack Web Developer || Industrial Engineer]
-
 # Hello world!, I'm Juanjo
 ### FullStack Web Developer || Industrial Engineer 
 
