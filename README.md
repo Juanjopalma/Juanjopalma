@@ -1,4 +1,4 @@
-(https://github.com/Juanjopalma/Juanjopalma/blob/master/headerImg.jpg)
+![FullStack Web Developer || Industrial Designer](https://github.com/Juanjopalma/Juanjopalma/blob/master/headerImg.jpg)
 
 # Hello world!, I'm Juanjo
 ### FullStack Web Developer || Industrial Engineer 
